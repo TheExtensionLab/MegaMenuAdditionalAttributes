@@ -4,4 +4,6 @@ This is a small module that uses TheExtensionLab_MegaMenu's ```'theextensionlab_
 
 ***NOTE:*** Since most would do this as a theme customisation the frontend updates are not included but you can see more information in the blog post below.
 
+***ALSO NOTE:*** Depends on TheExtensionLab_MegaMenu
+
 [Related blog post](http://blog.theextensionlab.com/extensions-customisation/2015/10/06/adding-a-custom-attribute-to-theextensionlab-mega-menu.html)
