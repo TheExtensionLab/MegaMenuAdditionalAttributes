@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <TheExtensionLab_MenuAttributes>
+            <version>0.1.0</version>
+        </TheExtensionLab_MenuAttributes>
+    </modules>
+</config>

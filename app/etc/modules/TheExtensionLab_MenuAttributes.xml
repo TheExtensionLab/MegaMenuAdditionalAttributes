@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <TheExtensionLab_MenuAttributes>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <TheExtensionLab_MegaMenu/>
+            </depends>
+        </TheExtensionLab_MenuAttributes>
+    </modules>
+</config>
