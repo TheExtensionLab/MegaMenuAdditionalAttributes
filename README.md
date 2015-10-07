@@ -1,5 +1,4 @@
 # MegaMenuAdditionalAttributes
-Sample module that addes a new category attribute 'icon_image' to our menu.
 
 This is a small module that uses TheExtensionLab_MegaMenu's ```'theextensionlab_megamenu/extra_attributes'``` config node and the new event ```menu_get_category_menu_data_after```, to add a new category attribute 'icon_image' to the Menu Object for use on the frontend.
 
