@@ -5,4 +5,36 @@
             <version>0.1.0</version>
         </TheExtensionLab_MenuAttributes>
     </modules>
+    <global>
+        <models>
+            <theextensionlab_menuattributes>
+                <class>TheExtensionLab_MenuAttributes_Model</class>
+            </theextensionlab_menuattributes>
+        </models>
+
+        <events>
+            <menu_get_category_menu_data_after>
+                <observers>
+                    <theextensionlab_menuattributes>
+                        <class>theextensionlab_menuattributes/observer</class>
+                        <method>menuGetCategoryMenuDataAfter</method>
+                    </theextensionlab_menuattributes>
+                </observers>
+            </menu_get_category_menu_data_after>
+        </events>
+
+        <resources>
+            <theextensionlab_menuattributes_setup>
+                <setup>
+                    <module>TheExtensionLab_MenuAttributes</module>
+                    <class>Mage_Catalog_Model_Resource_Setup</class>
+                </setup>
+            </theextensionlab_menuattributes_setup>
+        </resources>
+    </global>
+    <theextensionlab_megamenu>
+        <extra_attributes>
+            <icon_image/>
+        </extra_attributes>
+    </theextensionlab_megamenu>
 </config>
