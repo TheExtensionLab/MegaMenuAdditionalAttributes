@@ -1,0 +1,19 @@
+{
+  "name":"theextensionlab/megamenuadditionalattributes",
+  "type":"magento-module",
+  "authors":[
+    {
+      "name":"James Anelay",
+      "email":"james@theextensionlab.com"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*",
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://packages.firegento.com"
+    }
+  ]
+}git
