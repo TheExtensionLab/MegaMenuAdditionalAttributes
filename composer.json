@@ -7,9 +7,6 @@
       "email":"james@theextensionlab.com"
     }
   ],
-  "require":{
-    "magento-hackathon/magento-composer-installer":"*",
-  },
   "repositories": [
     {
       "type": "composer",
